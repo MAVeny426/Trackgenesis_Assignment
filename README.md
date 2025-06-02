@@ -23,5 +23,24 @@ Food Receipe is a responsive React.js web app that lets users explore and search
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/recipe-hub.git
+https://github.com/MAVeny426/Trackgenesis_Assignment
+```
+```
 cd frontend
+```
+
+2.**Install dependencies**
+```
+npm install
+```
+
+3.**Start the development server**
+```
+npm start
+
+```
+## API Used
+
+- Get random meal: https://www.themealdb.com/api/json/v1/1/random.php
+
+- Search meal: https://www.themealdb.com/api/json/v1/1/search.php?s=chicken
